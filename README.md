@@ -1,6 +1,6 @@
 # Lynx-config
 
-Lynx is a text-based web browser that helps you look up information quickly while minimizing distractions.
+Lynx is a text-based web browser that helps  minimize distractions.
 
 ## Setup
 
@@ -11,10 +11,5 @@ Lynx is a text-based web browser that helps you look up information quickly whil
 2. Run the setup script:
     ```
     ./setup
-    ```
-
-3. Start Lynx by running the Go application:
-    ```
-    go run .
     ```
 
